@@ -1,6 +1,6 @@
-# API Core Module for Kohana/Koseven (PHP 5.6 - 8.3 Compatible)
+# API Core Module for Kohana/Konine (8.4 Compatible)
 
-This module provides a RESTful API base for Kohana 3.3.6 and Koseven 3.3.10 with broad PHP compatibility (5.6 through 8.3). It supports:
+This module provides a RESTful API base for Konine 3.4 with broad PHP compatibility (8.4). It supports:
 
 * REST verbs: `GET`, `POST`, `PUT`, `DELETE`
 * Output formats: `json`, `jsonp`, `xml`, `txt`
